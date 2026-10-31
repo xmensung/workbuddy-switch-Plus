@@ -1,0 +1,16 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capability for the main window and the credit floating window",
+  "windows": ["main", "credit-float"],
+  "permissions": [
+    "core:default",
+    "core:window:allow-start-dragging",
+    "core:window:allow-start-resize-dragging",
+    "opener:default",
+    "updater:default",
+    "notification:default",
+    "dialog:default",
+    "dialog:allow-save"
+  ]
+}
