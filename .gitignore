@@ -14,3 +14,7 @@ Thumbs.db
 *.log
 .idea/
 .vscode/
+
+*.exe
+*.zip
+*.msi
