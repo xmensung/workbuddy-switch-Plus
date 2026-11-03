@@ -18,3 +18,6 @@ Thumbs.db
 *.exe
 *.zip
 *.msi
+
+# 会话记忆/本地状态
+.workbuddy/
